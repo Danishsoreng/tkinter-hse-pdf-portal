@@ -23,8 +23,7 @@ This project is a Python-based GUI portal to load HSE report PDFs, view them, an
 - reportlab
 - ui/ux figma
 - figma design to tkinter design
-- 
 ## How to Run
 
 ```bash
-python testedit.py
+python portal.py
